@@ -8,4 +8,5 @@ backend/.elasticbeanstalk/*.global.yml
 backend/.env
 backend/__pycache__/
 
+#frontend
 frontend/.env
