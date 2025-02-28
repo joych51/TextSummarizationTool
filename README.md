@@ -1,3 +1,4 @@
+P R I S M
 AI-Powered Text Summarization Platform
 
 🎯 Project Overview
