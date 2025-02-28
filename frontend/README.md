@@ -1,6 +1,7 @@
 Text Summarization Web Application Development
 
 **Overview**:
+
 Backend (FastAPI)
 Implemented text summarization functionality using Hugging Face's BART-large-CNN model
 Integrated sentiment analysis using AWS Comprehend
